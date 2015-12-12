@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff
+END
+AdamsNordsieckTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/AdamsNordsieckTransformer.html
+END
+EulerIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/EulerIntegrator.html
+END
+MidpointIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/MidpointIntegrator.html
+END
+AdaptiveStepsizeIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/package-frame.html
+END
+DormandPrince853Integrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.html
+END
+AdamsIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/AdamsIntegrator.html
+END
+AdamsBashforthIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/AdamsBashforthIntegrator.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/package-use.html
+END
+GillIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/GillIntegrator.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/package-summary.html
+END
+ThreeEighthesIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/ThreeEighthesIntegrator.html
+END
+RungeKuttaIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/RungeKuttaIntegrator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/package-tree.html
+END
+DormandPrince54Integrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/DormandPrince54Integrator.html
+END
+GraggBulirschStoerIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/GraggBulirschStoerIntegrator.html
+END
+EmbeddedRungeKuttaIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.html
+END
+AdamsMoultonIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/AdamsMoultonIntegrator.html
+END
+HighamHall54Integrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/HighamHall54Integrator.html
+END
+ClassicalRungeKuttaIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/nonstiff/ClassicalRungeKuttaIntegrator.html
+END

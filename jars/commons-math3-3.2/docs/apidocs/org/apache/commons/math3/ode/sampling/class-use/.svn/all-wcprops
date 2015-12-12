@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use
+END
+DummyStepHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/DummyStepHandler.html
+END
+FixedStepHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/FixedStepHandler.html
+END
+StepHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/StepHandler.html
+END
+StepNormalizerBounds.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/StepNormalizerBounds.html
+END
+StepInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/StepInterpolator.html
+END
+StepNormalizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/StepNormalizer.html
+END
+NordsieckStepInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/NordsieckStepInterpolator.html
+END
+AbstractStepInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/AbstractStepInterpolator.html
+END
+StepNormalizerMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/sampling/class-use/StepNormalizerMode.html
+END

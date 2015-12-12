@@ -1,0 +1,11 @@
+El presente trabajo de tesis implementa un Datamart para el apoyo al proceso de toma de decisiones del área de mantenimiento y logística de una empresa de transporte público de pasajeros. 
+
+Las empresas de transporte público de pasajeros son un tipo de empresa que maneja una gran cantidad de información día a día. Sin embargo, muchas de ellas no saben cómo administrarlo adecuadamente, debido a que sus sistemas actuales no soportan el manejo adecuado de grandes volúmenes de información. Así, las empresas de transporte público tienen el problema de utilizar su información para emplearla en la toma de decisiones. 
+
+El objetivo principal es proveer una solución de Inteligencia de Negocios que dé soporte a las necesidades de información de los usuarios finales del área de mantenimiento y logística.
+
+Para llevar adelante el desarrollo del Datamart se utilizó la metodología DWEP, la cual está basada en la metodología de implementación de desarrollo de software, Rational Unified Process. Además, para una adecuada gestión del proyecto se consideraron las actividades y entregables propuestos por el PMBOK.
+
+La acertada selección de las actividades y las tareas de las metodologías nombradas han guiado y facilitado el desarrollo de la solución logrando un producto que cumple satisfactoriamente las necesidades de información de los usuarios.	El proceso de gestión de proyecto siguiendo las recomendaciones del PMBOK, con sus tareas de planificación, estimación, seguimiento y control, ha permitido culminar el trabajo en un tiempo similar al estimado y con la calidad deseada.
+
+Como futuras aplicaciones de la solución se propone implementar un componente de Inteligencia de Negocios basado en Balanced Scorecard, incorporar nuevas herramientas especializadas en Inteligencia de Negocios como también ampliar la funcionalidad incorporando otras áreas de una empresa de transporte público de pasajeros.

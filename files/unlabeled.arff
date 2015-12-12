@@ -1,0 +1,21 @@
+@relation in.txt
+
+@attribute tamanho {Corta,Mediana,Larga}
+@attribute localizacion {Primera,Segunda,Mediana,Penúltima,Última}
+@attribute tiempo {PRES,PAST,FUT,IMP,PRES_CPO,PAST_CPO,FUT_CPO,PRES_CT,PAST_CT,FUT_CT,PRES_CPO_CT,PAST_CPO_CT,FUT_CPO_CT,COND,noverb}
+@attribute voz {PASIVO,ACTIVO,noverb}
+@attribute modal {si,no,noverb}
+@attribute expresion {B,G,P,M,R,C,S,noexpr}
+@attribute categoria {B,G,P,M,R,C,S}
+
+@data
+Mediana,Primera,PRES,ACTIVO,no,P,?
+Mediana,Segunda,PRES,ACTIVO,no,noexpr,?
+Mediana,Mediana,PRES,ACTIVO,no,G,?
+Mediana,Mediana,PRES,ACTIVO,no,G,?
+Mediana,Mediana,PRES,ACTIVO,no,noexpr,?
+Mediana,Mediana,PRES,ACTIVO,no,M,?
+Corta,Mediana,PAST,ACTIVO,no,noexpr,?
+Mediana,Mediana,PRES_CPO,ACTIVO,no,M,?
+Mediana,Penúltima,PRES,ACTIVO,no,noexpr,?
+Mediana,Última,PRES,ACTIVO,no,C,?

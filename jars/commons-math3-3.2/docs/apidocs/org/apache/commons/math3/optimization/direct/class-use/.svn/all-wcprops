@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use
+END
+BaseAbstractMultivariateSimpleBoundsOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/BaseAbstractMultivariateSimpleBoundsOptimizer.html
+END
+CMAESOptimizer.PopulationSize.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/CMAESOptimizer.PopulationSize.html
+END
+BOBYQAOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/BOBYQAOptimizer.html
+END
+NelderMeadSimplex.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/NelderMeadSimplex.html
+END
+SimplexOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/SimplexOptimizer.html
+END
+AbstractSimplex.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/AbstractSimplex.html
+END
+PowellOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/PowellOptimizer.html
+END
+BaseAbstractMultivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/BaseAbstractMultivariateOptimizer.html
+END
+MultivariateFunctionMappingAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/MultivariateFunctionMappingAdapter.html
+END
+CMAESOptimizer.Sigma.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/CMAESOptimizer.Sigma.html
+END
+MultiDirectionalSimplex.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/MultiDirectionalSimplex.html
+END
+MultivariateFunctionPenaltyAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/MultivariateFunctionPenaltyAdapter.html
+END
+BaseAbstractMultivariateVectorOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/BaseAbstractMultivariateVectorOptimizer.html
+END
+CMAESOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/direct/class-use/CMAESOptimizer.html
+END

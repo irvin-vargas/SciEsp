@@ -1,0 +1,9 @@
+La posibilidad de tener una herramienta que de una solución completa a un determinado problema es difícil de encontrar en la actualidad. Las herramientas orientadas a áreas específicas de estudio son prácticamente escasas y normalmente requieren del uso de más de una aplicación para llegar a un resultado. De esta forma, se obtienen soluciones parciales a una problemática, lo que ocasiona la necesidad de recurrir a otras herramientas para que terminen el trabajo.
+
+Un caso muy particular de este problema es el del proceso de psicometría en el cual las etapas de confiabilidad y análisis requieren del uso de varias herramientas. Además, las soluciones obtenidas en cada etapa no son completas dado que se necesita realizar procesos no automatizados que tienen mayor probabilidad de conllevar a errores. La presencia de estos errores en un test trae consigo importantes consecuencias dado que podría obtenerse conclusiones inexactas.
+
+Para solucionar este problema se implementó una herramienta que sea lo suficientemente flexible como para permitir ampliar sus funcionalidades a diversas áreas de trabajo. Debido a que las hojas de cálculo electrónicas son aplicaciones que fácilmente pueden desempeñarse en cualquier área de estudio, se utilizó esta característica como interfaz de la herramienta. Bajo este modelo, se diseñó una arquitectura que permita soportar la ampliación mediante módulos con archivos XML como interfaces.
+
+Respecto al problema del proceso de psicometría, se estará contando con un módulo orientado al proceso de confiabilidad y de análisis que automatizará sus procesos manuales, mejorando el tiempo de respuesta.
+
+La presente tesis se desarrolló utilizando UML como lenguaje de modelamiento, RUP para los procesos a seguir durante el trabajo y Six Sigma para alcanzar un nivel deseado en la mejora de los procesos implementados.

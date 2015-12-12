@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning
+END
+BSPTreeVisitor.Order.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/BSPTreeVisitor.Order.html
+END
+BSPTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/BSPTree.html
+END
+AbstractSubHyperplane.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.html
+END
+Hyperplane.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/Hyperplane.html
+END
+BoundaryAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.html
+END
+AbstractRegion.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/AbstractRegion.html
+END
+Transform.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/Transform.html
+END
+RegionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/RegionFactory.html
+END
+BSPTree.LeafMerger.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/BSPTree.LeafMerger.html
+END
+SubHyperplane.SplitSubHyperplane.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/SubHyperplane.SplitSubHyperplane.html
+END
+Embedding.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/Embedding.html
+END
+SubHyperplane.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/SubHyperplane.html
+END
+Region.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/Region.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/package-frame.html
+END
+Side.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/Side.html
+END
+BSPTreeVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/BSPTreeVisitor.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/package-tree.html
+END
+Region.Location.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/geometry/partitioning/Region.Location.html
+END

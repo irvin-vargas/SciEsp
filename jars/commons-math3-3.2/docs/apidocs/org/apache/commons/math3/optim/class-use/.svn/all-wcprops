@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use
+END
+InitialGuess.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/InitialGuess.html
+END
+PointValuePair.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/PointValuePair.html
+END
+SimpleBounds.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/SimpleBounds.html
+END
+BaseMultivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/BaseMultivariateOptimizer.html
+END
+AbstractConvergenceChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/AbstractConvergenceChecker.html
+END
+MaxIter.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/MaxIter.html
+END
+SimpleValueChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/SimpleValueChecker.html
+END
+BaseOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/BaseOptimizer.html
+END
+OptimizationData.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/OptimizationData.html
+END
+ConvergenceChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/ConvergenceChecker.html
+END
+PointVectorValuePair.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/PointVectorValuePair.html
+END
+SimplePointChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/SimplePointChecker.html
+END
+MaxEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/MaxEval.html
+END
+BaseMultiStartMultivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/BaseMultiStartMultivariateOptimizer.html
+END
+SimpleVectorValueChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/class-use/SimpleVectorValueChecker.html
+END

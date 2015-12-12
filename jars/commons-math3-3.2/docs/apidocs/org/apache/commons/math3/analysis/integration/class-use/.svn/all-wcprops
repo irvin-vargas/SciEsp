@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use
+END
+BaseAbstractUnivariateIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use/BaseAbstractUnivariateIntegrator.html
+END
+UnivariateIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use/UnivariateIntegrator.html
+END
+LegendreGaussIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use/LegendreGaussIntegrator.html
+END
+SimpsonIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use/SimpsonIntegrator.html
+END
+RombergIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use/RombergIntegrator.html
+END
+TrapezoidIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use/TrapezoidIntegrator.html
+END
+IterativeLegendreGaussIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/integration/class-use/IterativeLegendreGaussIntegrator.html
+END

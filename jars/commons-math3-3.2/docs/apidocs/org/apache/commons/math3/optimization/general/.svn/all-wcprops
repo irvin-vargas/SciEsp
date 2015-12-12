@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general
+END
+AbstractDifferentiableOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/AbstractDifferentiableOptimizer.html
+END
+LevenbergMarquardtOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.html
+END
+AbstractScalarDifferentiableOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/AbstractScalarDifferentiableOptimizer.html
+END
+GaussNewtonOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/GaussNewtonOptimizer.html
+END
+AbstractLeastSquaresOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.html
+END
+ConjugateGradientFormula.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/ConjugateGradientFormula.html
+END
+NonLinearConjugateGradientOptimizer.IdentityPreconditioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/NonLinearConjugateGradientOptimizer.IdentityPreconditioner.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/package-frame.html
+END
+Preconditioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/Preconditioner.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/package-use.html
+END
+NonLinearConjugateGradientOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/NonLinearConjugateGradientOptimizer.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/general/package-tree.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/andreqi/coh-metrix-esp/!svn/ver/20/trunk/src/pucp/edu/test
+END
+CohSylableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/andreqi/coh-metrix-esp/!svn/ver/13/trunk/src/pucp/edu/test/CohSylableTest.java
+END
+ConnectivesAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/andreqi/coh-metrix-esp/!svn/ver/15/trunk/src/pucp/edu/test/ConnectivesAnalyzerTest.java
+END
+DescriptiveAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/andreqi/coh-metrix-esp/!svn/ver/17/trunk/src/pucp/edu/test/DescriptiveAnalyzerTest.java
+END
+WordInformationAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/andreqi/coh-metrix-esp/!svn/ver/19/trunk/src/pucp/edu/test/WordInformationAnalyzerTest.java
+END
+ParagraphSpliterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/andreqi/coh-metrix-esp/!svn/ver/14/trunk/src/pucp/edu/test/ParagraphSpliterTest.java
+END
+RefCohesionAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/andreqi/coh-metrix-esp/!svn/ver/18/trunk/src/pucp/edu/test/RefCohesionAnalyzerTest.java
+END
+TextEasabilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/andreqi/coh-metrix-esp/!svn/ver/11/trunk/src/pucp/edu/test/TextEasabilityTest.java
+END
+MetricsEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/andreqi/coh-metrix-esp/!svn/ver/20/trunk/src/pucp/edu/test/MetricsEngineTest.java
+END

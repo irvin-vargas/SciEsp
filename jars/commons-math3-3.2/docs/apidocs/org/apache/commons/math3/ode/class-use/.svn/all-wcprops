@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use
+END
+MultistepIntegrator.NordsieckTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/MultistepIntegrator.NordsieckTransformer.html
+END
+FirstOrderDifferentialEquations.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/FirstOrderDifferentialEquations.html
+END
+AbstractParameterizable.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/AbstractParameterizable.html
+END
+JacobianMatrices.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/JacobianMatrices.html
+END
+AbstractIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/AbstractIntegrator.html
+END
+ExpandableStatefulODE.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/ExpandableStatefulODE.html
+END
+JacobianMatrices.MismatchedEquations.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/JacobianMatrices.MismatchedEquations.html
+END
+ODEIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/ODEIntegrator.html
+END
+SecondOrderIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/SecondOrderIntegrator.html
+END
+Parameterizable.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/Parameterizable.html
+END
+ContinuousOutputModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/ContinuousOutputModel.html
+END
+FirstOrderConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/FirstOrderConverter.html
+END
+EquationsMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/EquationsMapper.html
+END
+SecondOrderDifferentialEquations.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/SecondOrderDifferentialEquations.html
+END
+UnknownParameterException.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/UnknownParameterException.html
+END
+SecondaryEquations.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/SecondaryEquations.html
+END
+ParameterJacobianProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/ParameterJacobianProvider.html
+END
+FirstOrderIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/FirstOrderIntegrator.html
+END
+ParameterizedODE.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/ParameterizedODE.html
+END
+MultistepIntegrator.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/MultistepIntegrator.html
+END
+MainStateJacobianProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/ode/class-use/MainStateJacobianProvider.html
+END

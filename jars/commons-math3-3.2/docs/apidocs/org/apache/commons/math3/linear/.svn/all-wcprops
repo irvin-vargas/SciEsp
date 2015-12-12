@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear
+END
+RealLinearOperator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealLinearOperator.html
+END
+DefaultFieldMatrixChangingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/DefaultFieldMatrixChangingVisitor.html
+END
+AbstractRealMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/AbstractRealMatrix.html
+END
+AbstractFieldMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/AbstractFieldMatrix.html
+END
+JacobiPreconditioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/JacobiPreconditioner.html
+END
+ConjugateGradient.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/ConjugateGradient.html
+END
+ArrayRealVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/ArrayRealVector.html
+END
+RectangularCholeskyDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RectangularCholeskyDecomposition.html
+END
+NonSquareOperatorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/NonSquareOperatorException.html
+END
+PreconditionedIterativeLinearSolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/PreconditionedIterativeLinearSolver.html
+END
+AnyMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/AnyMatrix.html
+END
+CholeskyDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/CholeskyDecomposition.html
+END
+SingularOperatorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SingularOperatorException.html
+END
+QRDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/QRDecomposition.html
+END
+RealMatrixFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealMatrixFormat.html
+END
+FieldLUDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/FieldLUDecomposition.html
+END
+EigenDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/EigenDecomposition.html
+END
+Array2DRowRealMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/Array2DRowRealMatrix.html
+END
+OpenMapRealMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/OpenMapRealMatrix.html
+END
+DefaultIterativeLinearSolverEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/DefaultIterativeLinearSolverEvent.html
+END
+OpenMapRealVector.OpenMapEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/OpenMapRealVector.OpenMapEntry.html
+END
+DecompositionSolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/DecompositionSolver.html
+END
+RealMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealMatrix.html
+END
+NonSelfAdjointOperatorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/NonSelfAdjointOperatorException.html
+END
+FieldMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/FieldMatrix.html
+END
+OpenMapRealVector.OpenMapSparseIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/OpenMapRealVector.OpenMapSparseIterator.html
+END
+MatrixDimensionMismatchException.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/MatrixDimensionMismatchException.html
+END
+RRQRDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RRQRDecomposition.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/package-frame.html
+END
+SparseFieldVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SparseFieldVector.html
+END
+RealVectorChangingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealVectorChangingVisitor.html
+END
+Array2DRowFieldMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/Array2DRowFieldMatrix.html
+END
+MatrixUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/MatrixUtils.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/package-use.html
+END
+SparseRealMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SparseRealMatrix.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/package-summary.html
+END
+RealMatrixChangingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealMatrixChangingVisitor.html
+END
+FieldMatrixChangingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/FieldMatrixChangingVisitor.html
+END
+SingularMatrixException.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SingularMatrixException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/package-tree.html
+END
+IllConditionedOperatorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/IllConditionedOperatorException.html
+END
+RealVector.SparseEntryIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealVector.SparseEntryIterator.html
+END
+DefaultRealMatrixPreservingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/DefaultRealMatrixPreservingVisitor.html
+END
+FieldDecompositionSolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/FieldDecompositionSolver.html
+END
+RealVectorFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealVectorFormat.html
+END
+IterativeLinearSolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/IterativeLinearSolver.html
+END
+SymmLQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SymmLQ.html
+END
+BlockFieldMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/BlockFieldMatrix.html
+END
+IterativeLinearSolverEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/IterativeLinearSolverEvent.html
+END
+OpenMapRealVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/OpenMapRealVector.html
+END
+NonPositiveDefiniteMatrixException.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/NonPositiveDefiniteMatrixException.html
+END
+RealVectorPreservingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealVectorPreservingVisitor.html
+END
+NonSymmetricMatrixException.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/NonSymmetricMatrixException.html
+END
+DefaultRealMatrixChangingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/DefaultRealMatrixChangingVisitor.html
+END
+RealMatrixPreservingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealMatrixPreservingVisitor.html
+END
+FieldMatrixPreservingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/FieldMatrixPreservingVisitor.html
+END
+DefaultFieldMatrixPreservingVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/DefaultFieldMatrixPreservingVisitor.html
+END
+DiagonalMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/DiagonalMatrix.html
+END
+ArrayFieldVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/ArrayFieldVector.html
+END
+RealVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealVector.html
+END
+RealVector.Entry.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/RealVector.Entry.html
+END
+FieldVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/FieldVector.html
+END
+LUDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/LUDecomposition.html
+END
+SingularValueDecomposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SingularValueDecomposition.html
+END
+NonSquareMatrixException.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/NonSquareMatrixException.html
+END
+NonPositiveDefiniteOperatorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/NonPositiveDefiniteOperatorException.html
+END
+BlockRealMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/BlockRealMatrix.html
+END
+SparseRealVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SparseRealVector.html
+END
+SparseFieldMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/linear/SparseFieldMatrix.html
+END

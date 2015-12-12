@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/package-tree.html
+END
+LinearObjectiveFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/LinearObjectiveFunction.html
+END
+SimplexSolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/SimplexSolver.html
+END
+LinearOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/LinearOptimizer.html
+END
+LinearConstraint.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/LinearConstraint.html
+END
+UnboundedSolutionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/UnboundedSolutionException.html
+END
+AbstractLinearOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.html
+END
+Relationship.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/Relationship.html
+END
+NoFeasibleSolutionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/NoFeasibleSolutionException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/linear/package-frame.html
+END

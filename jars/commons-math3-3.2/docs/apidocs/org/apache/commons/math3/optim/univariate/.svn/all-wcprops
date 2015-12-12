@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/package-summary.html
+END
+UnivariateObjectiveFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/UnivariateObjectiveFunction.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/package-tree.html
+END
+SearchInterval.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/SearchInterval.html
+END
+UnivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/UnivariateOptimizer.html
+END
+UnivariatePointValuePair.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/UnivariatePointValuePair.html
+END
+BrentOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/BrentOptimizer.html
+END
+BracketFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/BracketFinder.html
+END
+MultiStartUnivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/MultiStartUnivariateOptimizer.html
+END
+SimpleUnivariateValueChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/SimpleUnivariateValueChecker.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optim/univariate/package-frame.html
+END

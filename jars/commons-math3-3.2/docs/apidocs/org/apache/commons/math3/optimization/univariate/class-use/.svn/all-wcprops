@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use
+END
+BracketFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/BracketFinder.html
+END
+SimpleUnivariateValueChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/SimpleUnivariateValueChecker.html
+END
+UnivariateMultiStartOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/UnivariateMultiStartOptimizer.html
+END
+BaseUnivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/BaseUnivariateOptimizer.html
+END
+BaseAbstractUnivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/BaseAbstractUnivariateOptimizer.html
+END
+UnivariateOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/UnivariateOptimizer.html
+END
+UnivariatePointValuePair.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/UnivariatePointValuePair.html
+END
+BrentOptimizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/optimization/univariate/class-use/BrentOptimizer.html
+END

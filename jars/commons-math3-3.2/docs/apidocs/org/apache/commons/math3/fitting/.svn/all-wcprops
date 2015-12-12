@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting
+END
+PolynomialFitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/PolynomialFitter.html
+END
+CurveFitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/CurveFitter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/package-frame.html
+END
+WeightedObservedPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/WeightedObservedPoint.html
+END
+GaussianFitter.ParameterGuesser.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/GaussianFitter.ParameterGuesser.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/package-summary.html
+END
+GaussianFitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/GaussianFitter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/package-tree.html
+END
+HarmonicFitter.ParameterGuesser.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/HarmonicFitter.ParameterGuesser.html
+END
+HarmonicFitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/fitting/HarmonicFitter.html
+END

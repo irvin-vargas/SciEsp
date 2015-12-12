@@ -1,0 +1,31 @@
+---Propósito---
+El presente trabajo de tesis implementa un Datamart para el apoyo a el proceso de toma de decisiones de el área de mantenimiento y logística de una empresa de transporte público de pasajeros .
+
+---Contexto---
+Las empresas de transporte público de pasajeros son un tipo de empresa que maneja una gran cantidad de información día a día .
+
+---Brecha---
+Sin embargo , muchas de ellas no saben cómo administrar lo adecuadamente , debido_a que sus sistemas actuales no soportan el manejo adecuado de grandes volúmenes de información .
+
+---Brecha---
+Así , las empresas de transporte público tienen el problema de utilizar su información para emplear la en la toma de decisiones .
+
+---Metodología---
+El objetivo principal es proveer una solución de Inteligencia_de_Negocios que dé soporte a las necesidades de información de los usuarios finales de el área de mantenimiento y logística .
+
+---Metodología---
+Para llevar adelante el desarrollo de el Datamart se utilizó la metodología DWEP , la cual está basada en la metodología de implementación de desarrollo de software , Rational_Unified_Process .
+
+---Metodología---
+Además , para una adecuada gestión de el proyecto se consideraron las actividades y entregables propuestos por el PMBOK .
+
+---Metodología---
+La acertada selección de las actividades y las tareas de las metodologías nombradas han guiado y facilitado el desarrollo de la solución logrando un producto que cumple satisfactoriamente las necesidades de información de los usuarios .
+
+---Metodología---
+El proceso de gestión de proyecto siguiendo las recomendaciones de el PMBOK , con sus tareas de planificación , estimación , seguimiento y control , ha permitido culminar el trabajo en un tiempo similar a el estimado y con la calidad deseada .
+
+---Conclusión---
+Como futuras aplicaciones de la solución se propone implementar un componente de Inteligencia_de_Negocios basado en Balanced_Scorecard , incorporar nuevas herramientas especializadas en Inteligencia_de_Negocios como también ampliar la funcionalidad incorporando otras áreas de una empresa de transporte público de pasajeros .
+
+

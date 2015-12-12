@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/andreqi/coh-metrix-esp/!svn/ver/17/trunk/testfiles
+END
+smallFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/andreqi/coh-metrix-esp/!svn/ver/17/trunk/testfiles/smallFile.txt
+END
+corpusSample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/andreqi/coh-metrix-esp/!svn/ver/11/trunk/testfiles/corpusSample.txt
+END
+mediumFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/andreqi/coh-metrix-esp/!svn/ver/1/trunk/testfiles/mediumFile.txt
+END

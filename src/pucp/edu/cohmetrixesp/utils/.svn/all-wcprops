@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/andreqi/coh-metrix-esp/!svn/ver/17/trunk/src/pucp/edu/cohmetrixesp/utils
+END
+ImplFreelingAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/andreqi/coh-metrix-esp/!svn/ver/13/trunk/src/pucp/edu/cohmetrixesp/utils/ImplFreelingAnalyzer.java
+END
+IFreelingAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/andreqi/coh-metrix-esp/!svn/ver/13/trunk/src/pucp/edu/cohmetrixesp/utils/IFreelingAnalyzer.java
+END
+SyllableMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/andreqi/coh-metrix-esp/!svn/ver/17/trunk/src/pucp/edu/cohmetrixesp/utils/SyllableMatcher.java
+END
+ParagraphSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/andreqi/coh-metrix-esp/!svn/ver/14/trunk/src/pucp/edu/cohmetrixesp/utils/ParagraphSplitter.java
+END

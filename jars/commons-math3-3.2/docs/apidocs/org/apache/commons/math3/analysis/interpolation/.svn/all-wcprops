@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation
+END
+BivariateGridInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/BivariateGridInterpolator.html
+END
+BicubicSplineInterpolatingFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.html
+END
+TricubicSplineInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/TricubicSplineInterpolator.html
+END
+MicrosphereInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/MicrosphereInterpolator.html
+END
+TrivariateGridInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/TrivariateGridInterpolator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/package-frame.html
+END
+TricubicSplineInterpolatingFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/TricubicSplineInterpolatingFunction.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/package-use.html
+END
+MicrosphereInterpolatingFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/MicrosphereInterpolatingFunction.html
+END
+DividedDifferenceInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/DividedDifferenceInterpolator.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/package-summary.html
+END
+LoessInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/LoessInterpolator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/package-tree.html
+END
+UnivariatePeriodicInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/UnivariatePeriodicInterpolator.html
+END
+SplineInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/SplineInterpolator.html
+END
+HermiteInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/HermiteInterpolator.html
+END
+NevilleInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/NevilleInterpolator.html
+END
+FieldHermiteInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/FieldHermiteInterpolator.html
+END
+MultivariateInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/MultivariateInterpolator.html
+END
+SmoothingPolynomialBicubicSplineInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/SmoothingPolynomialBicubicSplineInterpolator.html
+END
+UnivariateInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/UnivariateInterpolator.html
+END
+LinearInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/LinearInterpolator.html
+END
+BicubicSplineInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/andreqi/coh-metrix-esp/!svn/ver/9/trunk/jars/commons-math3-3.2/docs/apidocs/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolator.html
+END
